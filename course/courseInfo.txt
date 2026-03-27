@@ -1,0 +1,3 @@
+FHCT1024|Programming Fundamentals
+UCCD1024|Data Structures and Algorithms
+UOMZ1013|Mathematics for IT

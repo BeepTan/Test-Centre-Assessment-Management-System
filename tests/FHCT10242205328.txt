@@ -1,0 +1,81 @@
+TEST PAPER: FHCT1024
+STUDENT ID: 2205328
+DATE: 2024-10-10
+========================================
+
+Q1. How do you start a single-line comment in Python?
+   A. #
+   B. --
+   C. /*
+   D. //
+
+Q2. Which keyword is used to define a function in Python?
+   A. func
+   B. def
+   C. define
+   D. function
+
+Q3. Which of the following is an invalid variable name in Python?
+   A. my_var
+   B. _var
+   C. var1
+   D. 1var
+
+Q4. What does the break statement do?
+   A. Exit program
+   B. Skip iteration
+   C. Exit loop
+   D. Pause execution
+
+Q5. Which is a mutable data type?
+   A. String
+   B. Integer
+   C. List
+   D. Tuple
+
+Q6. What is the process of finding errors in software code called?
+   A. Executing
+   B. Debugging
+   C. Compiling
+   D. Refactoring
+
+Q7. What is the output of 2 ** 3 in Python?
+   A. 9
+   B. 5
+   C. 8
+   D. 6
+
+Q8. Which function is used to get the length of a list?
+   A. len()
+   B. length()
+   C. size()
+   D. count()
+
+Q9. Which method is used to add an item to the end of a list?
+   A. append()
+   B. insert()
+   C. add()
+   D. extend()
+
+Q10. What data type is the result of: 3 / 2?
+   A. bool
+   B. string
+   C. int
+   D. float
+
+========================================
+END OF PAPER
+
+
+--- FOR EXAMINER USE ONLY ---
+ANSWER KEY:
+Q1: A
+Q2: B
+Q3: D
+Q4: C
+Q5: C
+Q6: B
+Q7: C
+Q8: A
+Q9: A
+Q10: D

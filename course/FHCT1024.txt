@@ -1,0 +1,11 @@
+What is the process of finding errors in software code called?|Refactoring|Debugging|Compiling|Executing|2
+Which of the following is an invalid variable name in Python?|my_var|1var|_var|var1|2
+What is the output of 2 ** 3 in Python?|6|8|9|5|2
+Which keyword is used to define a function in Python?|func|define|def|function|3
+What data type is the result of: 3 / 2?|int|float|string|bool|2
+Which method is used to add an item to the end of a list?|insert()|add()|append()|extend()|3
+How do you start a single-line comment in Python?|#|//|/*|--|1
+Which function is used to get the length of a list?|size()|length()|len()|count()|3
+What does the break statement do?|Exit program|Exit loop|Skip iteration|Pause execution|2
+Which is a mutable data type?|Tuple|String|List|Integer|3
+What does dictionary data type used for?|To store number only|to store string only|To store float only|to store key value pair only|4
